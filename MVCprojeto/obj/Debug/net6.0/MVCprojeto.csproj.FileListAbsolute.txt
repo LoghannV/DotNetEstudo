@@ -34,3 +34,14 @@ C:\Users\Administrador\source\repos\MVCprojeto\MVCprojeto\bin\Debug\net6.0\Fluen
 C:\Users\Administrador\source\repos\MVCprojeto\MVCprojeto\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Administrador\source\repos\MVCprojeto\MVCprojeto\obj\Debug\net6.0\MVCprojeto.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Administrador\source\repos\MVCprojeto\MVCprojeto\obj\Debug\net6.0\MVCprojeto.csproj.CopyComplete
+C:\Users\Administrador\source\repos\MVCprojeto\MVCprojeto\bin\Debug\net6.0\APIDOIS.deps.json
+C:\Users\Administrador\source\repos\MVCprojeto\MVCprojeto\bin\Debug\net6.0\APIDOIS.runtimeconfig.json
+C:\Users\Administrador\source\repos\MVCprojeto\MVCprojeto\bin\Debug\net6.0\APIDOIS.exe
+C:\Users\Administrador\source\repos\MVCprojeto\MVCprojeto\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Administrador\source\repos\MVCprojeto\MVCprojeto\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrador\source\repos\MVCprojeto\MVCprojeto\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrador\source\repos\MVCprojeto\MVCprojeto\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrador\source\repos\MVCprojeto\MVCprojeto\bin\Debug\net6.0\APIDOIS.dll
+C:\Users\Administrador\source\repos\MVCprojeto\MVCprojeto\bin\Debug\net6.0\Common.dll
+C:\Users\Administrador\source\repos\MVCprojeto\MVCprojeto\bin\Debug\net6.0\APIDOIS.pdb
+C:\Users\Administrador\source\repos\MVCprojeto\MVCprojeto\bin\Debug\net6.0\Common.pdb
